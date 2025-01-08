@@ -1,4 +1,4 @@
-Projeto EBOOK Gerado por I.A.s
+# Projeto EBOOK Gerado por I.A.s
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
 
@@ -6,12 +6,15 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 ChatGPT
 MidJourney
 PowerPoint
-🧠 Prompts
-ChatGPT：
+
+## 🧠 Prompts
+#### ChatGPT：
 
 Ação	prompt
 título:	Crie um título de um ebook sobre o tema finanças com python que tenha um imperador programando, me liste 5 variações de títulos
+
 conteúdo:	faça um texto para ebook, com foco em finanças com python, com as principais bibliotecas e funções
+
 {REGRAS}
 >Explique sempre de maneira simples
 >Deixe o texto enxuto
