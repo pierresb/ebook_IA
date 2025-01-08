@@ -20,9 +20,13 @@ conteúdo:	faça um texto para ebook, com foco em finanças com python, com as p
 >Deixe o texto enxuto
 >Sempre traga exemplos de código em contextos reais
 >Sempre deixe um título sugestivo por tópico
-Midjourney：crie uma imagem de um imperador programando em python
+#### Midjourney：
+crie uma imagem de um imperador programando em python
 
-✨ Features
+## ✨ Features
+
 Conteúdo gerado via ChatGPT
+
 Imagens geradas via MidJourney
+
 Diagramação no powerpoint
