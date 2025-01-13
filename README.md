@@ -17,8 +17,11 @@ conteúdo:	faça um texto para ebook, com foco em finanças com python, com as p
 
 {REGRAS}
 >Explique sempre de maneira simples
+
 >Deixe o texto enxuto
+
 >Sempre traga exemplos de código em contextos reais
+
 >Sempre deixe um título sugestivo por tópico
 
 #### Midjourney：
